@@ -1,0 +1,17 @@
+C:\Users\Kerem\source\repos\NKatmanliMimari\NKatmanliMimari\obj\Debug\NKatmanliMimari.csprojAssemblyReference.cache
+C:\Users\Kerem\source\repos\NKatmanliMimari\NKatmanliMimari\obj\Debug\NKatmanliMimari.Form1.resources
+C:\Users\Kerem\source\repos\NKatmanliMimari\NKatmanliMimari\obj\Debug\NKatmanliMimari.Properties.Resources.resources
+C:\Users\Kerem\source\repos\NKatmanliMimari\NKatmanliMimari\obj\Debug\NKatmanliMimari.csproj.GenerateResource.cache
+C:\Users\Kerem\source\repos\NKatmanliMimari\NKatmanliMimari\obj\Debug\NKatmanliMimari.csproj.CoreCompileInputs.cache
+C:\Users\Kerem\source\repos\NKatmanliMimari\NKatmanliMimari\bin\Debug\NKatmanliMimari.exe.config
+C:\Users\Kerem\source\repos\NKatmanliMimari\NKatmanliMimari\bin\Debug\NKatmanliMimari.exe
+C:\Users\Kerem\source\repos\NKatmanliMimari\NKatmanliMimari\bin\Debug\NKatmanliMimari.pdb
+C:\Users\Kerem\source\repos\NKatmanliMimari\NKatmanliMimari\bin\Debug\DataAccessLayer.dll
+C:\Users\Kerem\source\repos\NKatmanliMimari\NKatmanliMimari\bin\Debug\EntitityLayer.dll
+C:\Users\Kerem\source\repos\NKatmanliMimari\NKatmanliMimari\bin\Debug\LogicLayer.dll
+C:\Users\Kerem\source\repos\NKatmanliMimari\NKatmanliMimari\bin\Debug\DataAccessLayer.pdb
+C:\Users\Kerem\source\repos\NKatmanliMimari\NKatmanliMimari\bin\Debug\EntitityLayer.pdb
+C:\Users\Kerem\source\repos\NKatmanliMimari\NKatmanliMimari\bin\Debug\LogicLayer.pdb
+C:\Users\Kerem\source\repos\NKatmanliMimari\NKatmanliMimari\obj\Debug\NKatmanliMimari.csproj.CopyComplete
+C:\Users\Kerem\source\repos\NKatmanliMimari\NKatmanliMimari\obj\Debug\NKatmanliMimari.exe
+C:\Users\Kerem\source\repos\NKatmanliMimari\NKatmanliMimari\obj\Debug\NKatmanliMimari.pdb
